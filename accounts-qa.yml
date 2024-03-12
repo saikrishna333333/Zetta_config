@@ -1,10 +1,10 @@
 build:
-  version: "3.0"
+  version: "5.0"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related QA APIs "
+  message: "Welcome to ZettaBank accounts related Application APIs "
   contactDetails:
-    name: "Sanjay - QA Lead"
+    name: "Sanjay - Developer"
     email: "sanjay@zettabank.com"
   onCallSupport:
     - (040) 265-3765
