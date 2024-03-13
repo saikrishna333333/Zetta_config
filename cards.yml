@@ -1,1 +1,11 @@
+build:
+  version: "8.0"
 
+cards:
+  message: "Welcome to ZettaBank accounts related TESTING APIs "
+  contactDetails:
+    name: "Valerie - Product Owner"
+    email: "valerie@zettabank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
