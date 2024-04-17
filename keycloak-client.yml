@@ -1,6 +1,6 @@
 keycloak:
-  auth-server-url: http://keycloak:8080
-  client-uuid: e0cb3937-efb5-4a7c-8c6c-d468090cdec8
-  clientId: mpa-app
-  clientSecret: FeJ6o10obFWi0YIWae7rP8yzNp47N6ZN
-  realm: sample-realm
+  auth-server-url: http://localhost:8080
+  client-uuid: 3a2a9923-ae3a-415a-896b-7e4de6508269
+  clientId: MPA
+  clientSecret: UGkAsu50LgcVGGHD2NmUk7ELGKYqGldS
+  realm: MicroservicesApplication
